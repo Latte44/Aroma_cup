@@ -1,0 +1,12 @@
+[
+    {
+        "poster": "D:/goits/aroma_cup/photo/Сroissant.png",
+        "name": "Круасан","price": "50 грн",
+        "ingredients": "Пшеничне борошно, вершкове масло, молоко, цукор, дріжджі, сіль, яйця."
+    },
+        {
+        "poster": "D:/goits/aroma_cup/photo/Еclair.png",
+        "name": "Еклер","price": "30 грн",
+        "ingredients": "Пшеничне борошно, вершкове масло, яйця, молоко, цукор, вода, ваніль, шоколадна глазур."
+    }
+]

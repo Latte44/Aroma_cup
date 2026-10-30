@@ -1,0 +1,22 @@
+[
+    {
+        "poster": "D:/goits/aroma_cup/photo/Latte.png",
+        "name": "Лате", "price": "75 грн",
+        "ingredients": "Еспресо, молоко, ніжна молочна пінка"
+    },
+    {
+       "poster": "D:/goits/aroma_cup/photo/Сappuccino.png", 
+       "name": "Капучино", "price": "65 грн", 
+       "ingredients": "Еспресо, молоко, повітряна молочна пінка"
+    },
+    {
+        "poster": "D:/goits/aroma_cup/photo/Americano.png",
+        "name": "Американо", "price": "45 грн",
+        "ingredients": "Еспресо, гаряча вода"
+    },
+    {
+        "poster": "D:/goits/aroma_cup/photo/Еspresso.png",
+        "name": "Еспресо", "price": "40 грн",
+        "ingredients": "Натуральна мелена кава, вода"
+    }
+]

@@ -10,11 +10,18 @@ router = Router()
 @router.message(Command("start"))
 async def cmd_start(message: types.Message):
     await message.answer("Привіт це меню Aroma cup. \n "
-                         "/menu щоб побачити меню")
+                         "/info щоб побачити команди")
 
 @router.message(Command("menu"))
 async def cmd_menu(message: types.Message):
     await message.answer("Кава - /coffee або десерт - /desserts")
+
+@router.message(Command("info"))
+async def cmd_menu(message: types.Message):
+    await message.answer("Меню - /menu \n"
+                         "Кошик - /basket \n"
+                         "Подивитися кошик /Look_basket \n"
+                         "Очистити кошик /clear_basket")
 
 @router.message(Command("coffee"))
 async def cmd_coffee(message: types.Message):
